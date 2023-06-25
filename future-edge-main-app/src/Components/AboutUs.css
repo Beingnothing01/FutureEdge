@@ -1,0 +1,81 @@
+.about-us {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #f9f9f9;
+  }
+  
+  .content-wrapper {
+    margin: 0 auto;
+    max-width: 960px;
+  }
+  
+  .section-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .mission {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .values {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  
+  .instructors-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .instructors-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .instructor-tab {
+    width: 100%;
+    max-width: 300px;
+    padding: 20px;
+    margin: 10px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  .instructor-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .instructor-position {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .instructor-credentials {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .instructor-description {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff0000; /* red */
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  

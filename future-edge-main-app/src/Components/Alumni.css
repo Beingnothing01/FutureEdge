@@ -1,0 +1,70 @@
+.alumni-section {
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .section-heading {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .alumni-slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: scroll;
+    margin-bottom: 30px;
+    padding: 20px 0;
+  }
+  
+  .alumni-logo {
+    margin: 0 20px;
+  }
+  
+  .alumni-logo img {
+    max-height: 80px;
+  }
+  
+  .testimonials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+  }
+  
+  .testimonial {
+    width: 400px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .testimonial p {
+    margin-bottom: 10px;
+  }
+  
+  .testimonial-author {
+    font-style: italic;
+  }
+  
+  .cta-button {
+    padding: 10px 20px;
+    background-color: #ff0000; /* red */
+    color: #ffffff;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #cc0000; /* darker red */
+  }
+  
